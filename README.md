@@ -1,6 +1,6 @@
 # Introduction
 Hello! ImpactName.java is a simple program that displays "impact.com" in the
-CLI. 
+CLI.
 
 # Usage
 Call without arguments to see the default output.
@@ -9,11 +9,11 @@ Call without arguments to see the default output.
 Make the name colourful by supplying one of the following colours as an
 argument (`./run.sh "red"`):
     - red
-    - orange
-    - yellow
     - green
+    - yellow
     - blue
-    - purple
+    -magenta
+    - cyan
 
 # How To Run
 A shell script (`run.sh`) has been created to compile and run the program.
