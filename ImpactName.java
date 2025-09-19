@@ -4,8 +4,9 @@ import picocli.CommandLine.Parameters;
 
 @Command(
   name = "impact.com",
-  description = "Prints impact.com",
-  version = "version 1.0"
+  description = "Prints impact.com in your chosen colour",
+  version = "version 1.0",
+  header = "*-*-*-* impact.com CLI *-*-*-*"
 )
 
 public class ImpactName implements Runnable {
